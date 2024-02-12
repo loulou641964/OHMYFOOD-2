@@ -67,9 +67,9 @@ h2 {
     font-weight: bold;
     border: 1px solid #9356DC;
     width: 200px;
-    border-radius: 20px;
+    border-radius: 35px;
     background: linear-gradient(#FF79DA, #9356DC);
-    box-shadow: 5px 5px 5px 1px rgba(232, 225, 225, 0.75);
+    box-shadow: 5px 5px 5px 1px rgba(208, 203, 203, 0.75);
     margin: 10px 80px;
     cursor: pointer;
     margin-top: 20px;
@@ -95,7 +95,6 @@ h2 {
 
 .bouton {
     width: 97%;
-    height: 50px;
     box-shadow: 5px 5px 5px 1px rgba(248, 239, 239, 0.75);
     align-items: center;
     display: flex;
@@ -127,10 +126,6 @@ h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-#bouton_1 {
-    margin-left: 5px;
 }
 
 .bouton p {
