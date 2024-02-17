@@ -77,7 +77,6 @@ h2 {
     transform: scale(1.05);
     filter: contrast(1.6);
 }
-
 .button {
     width: 95%;
     display: flex;
@@ -95,7 +94,7 @@ h2 {
   .button i {
     margin-left: 39%;
     margin-right: 10px;
-    color: #9356dc;
+    color: #7e7e7e;
     
 }
   .button i:hover {
@@ -144,7 +143,7 @@ h3 {
     border-radius: 20px;
     background-color: white;
     width: 88%;
-    margin: 10px 10px; /* Doublon */
+    margin: 10px auto; /* Centering horizontally */
     box-shadow: 5px 5px 5px 1px rgba(161, 143, 143, 0.75);
 }
 
@@ -308,3 +307,17 @@ footer img {
         opacity: 1;
     }
 }
+
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 1024px) {
+    .button {
+      width:auto;
+      margin-right: 20px;
+    }
+    
+  }
+ 
+  
+  
