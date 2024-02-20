@@ -31,7 +31,7 @@ body {
     align-items: center;
     background-color: #eaeaea;
     width: 100%;
-    border-top: solid #dddddd;
+    box-shadow: inset 0px 2px 2px #c9c8c8;
 }
 
 .location i {
@@ -142,8 +142,9 @@ h3 {
     border-radius: 20px;
     background-color: white;
     width: 88%;
-    margin: 10px auto; 
-    box-shadow: 5px 5px 5px 1px rgba(224, 220, 220, 0.75);
+    margin: 10px auto;
+    box-shadow: 5px 5px 5px 1px rgba(220, 216, 216, 0.75);
+   
 }
 
 .restaurant img {
