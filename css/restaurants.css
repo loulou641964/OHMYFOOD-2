@@ -19,14 +19,15 @@ header a {
 }
 
 header a i {
-	margin-left: auto;
+	margin-left: 40px;
 	margin-top: 25px;
 	font-size: 20px;
 	color: black;
 }
 #logo {
 	display: block;
-	margin:auto
+	margin-left: 50px;
+	margin-top: 20px;
 }
 
 #logo img {
