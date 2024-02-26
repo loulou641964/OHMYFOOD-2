@@ -12,14 +12,9 @@ header {
 	display: flex;
 	height: 70px;
 }
-header a {
-	position: absolute;
-	left: 0;
-	height: 100%;
-}
 
 header a i {
-	margin-left: 40px;
+	margin-left: auto;
 	margin-top: 25px;
 	font-size: 20px;
 	color: black;
