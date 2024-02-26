@@ -12,6 +12,11 @@ header {
 	display: flex;
 	height: 70px;
 }
+header a {
+	position: absolute;
+	left: 0;
+	height: 100%;
+}
 
 header a i {
 	margin-left: auto;
