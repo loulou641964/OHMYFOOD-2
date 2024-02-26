@@ -188,7 +188,7 @@ h3 {
         transform: translateY(-50px);
     }
     50% {
-        transform: translateY(-25px); /* Mouvement vers le haut augmenté */
+        transform: translateY(-25px); 
     }
     100% {
         opacity: 1;
