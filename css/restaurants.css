@@ -26,6 +26,7 @@ header a i {
 	margin: auto;
 }
 #logo img {
+	display: flex;
 	height: 30px;
 	
 }
