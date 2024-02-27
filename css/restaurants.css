@@ -27,10 +27,12 @@ header a i {
 }
 #logo img {
 	height: 30px;
+	
 }
 img {
 	width: 100%;
 	height: 250px;
+	object-fit: cover;
 }
 
 main {
