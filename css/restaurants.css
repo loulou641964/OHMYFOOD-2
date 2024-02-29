@@ -13,7 +13,7 @@ header {
 }
 header a{
 	margin-bottom: 20px;
-	margin-left: -25px;
+	
 }
 header a i {
 	margin-left: 40px;
@@ -24,9 +24,11 @@ header a i {
 #logo {
 	display: block;
 	margin: auto;
+	padding-right: 50px;
 }
 #logo img {
 	height: 30px;
+	
 	
 }
 img {
